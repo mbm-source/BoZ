@@ -1,0 +1,10 @@
+
+---
+
+## 🛠 Requirements
+
+- Python 3.9+
+- macOS (tested on MacBook Pro M1)
+- Libraries:
+  ```bash
+  pip install requests beautifulsoup4 pandas openpyxl
